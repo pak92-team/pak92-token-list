@@ -1,5 +1,7 @@
 {
   "name": "PAK92 Token List",
+  "logoURI": "https://raw.githubusercontent.com/pak92-team/pak92-token-list/main/logo.png",
+  "keywords": ["paka", "pak92", "bsc", "token"],
   "timestamp": "2025-12-11T00:00:00+00:00",
   "version": {
     "major": 1,
