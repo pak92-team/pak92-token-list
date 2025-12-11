@@ -1,0 +1,19 @@
+{
+  "name": "PAK92 Token List",
+  "timestamp": "2025-12-11T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xA34eB4BABdE4C7797eD9b88d97F784bAaec1e238",
+      "name": "PakaCoin",
+      "symbol": "PAK92",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pak92-team/pak92-token-list/main/logo.png"
+    }
+  ]
+}
